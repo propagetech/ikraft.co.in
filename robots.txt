@@ -1,0 +1,5 @@
+<html>
+ <body>
+  User-agent: * Disallow: Disallow: /cgi-bin/ Sitemap: https://www.ikraft.co.in/sitemap.xml Disallow: /https://www.facebook.com/ikraftinteriors/ Disallow: /search Allow: / Sitemap: http://www.ikraft.co.in
+ </body>
+</html>
